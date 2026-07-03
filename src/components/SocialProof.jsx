@@ -54,7 +54,7 @@ export default function SocialProof() {
               className="bg-white rounded-2xl p-6 border border-gray-100"
             >
               {t.stars && <div className="text-[#0F6E56] mb-3">★★★★★</div>}
-              <p className="text-sm text-gray-700 mb-4">"{t.quote}"</p>
+              <p className="text-sm text-gray-700 mb-4">&ldquo;{t.quote}&rdquo;</p>
               <div className="text-sm font-medium text-gray-900">{t.name}</div>
               <div className="text-xs text-gray-500">{t.role}</div>
             </div>

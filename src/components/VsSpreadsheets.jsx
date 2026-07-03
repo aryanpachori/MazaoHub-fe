@@ -44,7 +44,7 @@ export default function VsSpreadsheets() {
               A spreadsheet can say:
             </div>
             <div className="text-2xl font-semibold text-gray-400 italic text-center py-8">
-              "Fertilizer applied."
+              &ldquo;Fertilizer applied.&rdquo;
             </div>
           </div>
 

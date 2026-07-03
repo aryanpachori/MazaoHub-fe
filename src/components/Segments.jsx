@@ -190,7 +190,7 @@ export default function Segments() {
               <p className="text-gray-600 mb-4">{active.body}</p>
               {active.quote && (
                 <div className="bg-[#F5F4F0] rounded-xl p-4 italic text-sm text-gray-700 border-l-4 border-[#0F6E56] my-4">
-                  "{active.quote}"
+                  &ldquo;{active.quote}&rdquo;
                   {active.quoteCaption && (
                     <div className="text-[10px] text-gray-400 not-italic mt-2">
                       {active.quoteCaption}

@@ -23,7 +23,7 @@ export default function BookACall() {
             Ready to see MazaoHub in action?
           </h2>
           <p className="text-lg opacity-80 mb-6">
-            Book a 30-minute demo with our team. We'll show you exactly how
+            Book a 30-minute demo with our team. We&apos;ll show you exactly how
             MazaoHub works for your organisation.
           </p>
 
@@ -48,7 +48,7 @@ export default function BookACall() {
             <div className="text-center py-10">
               <div className="text-4xl mb-4">✓</div>
               <p className="text-gray-700">
-                We'll send you a calendar link within 2 hours. Check your email.
+                We&apos;ll send you a calendar link within 2 hours. Check your email.
               </p>
             </div>
           ) : (

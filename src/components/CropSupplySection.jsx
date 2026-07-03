@@ -23,7 +23,7 @@ export default function CropSupplySection() {
           </h2>
           <p className="text-lg opacity-80 leading-relaxed mb-6">
             Every crop managed in MazaoHub can be connected to CropSupply — the
-            world's first ward-level harvest intelligence marketplace.
+            world&apos;s first ward-level harvest intelligence marketplace.
           </p>
 
           <div className="mb-2">
